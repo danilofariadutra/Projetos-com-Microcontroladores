@@ -1,0 +1,7 @@
+Carro seguidor de trilha, integrado a Rede Bluetooth:
+
+https://www.tinkercad.com/things/kfIOXfRxLZz-carrofotoresistor
+
+Protótipo do Semáforo sinalizador de fases e estados, integrado ao Carrinho Seguidor de Trilhas:
+
+https://www.tinkercad.com/things/7cVv6eWKY6D
